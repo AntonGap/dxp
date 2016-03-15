@@ -1,0 +1,10 @@
+{
+  "name": "huanga/dxp",
+  "type": "library",
+  "description": "Huanga Dxp",
+  "keywords": ["library"],
+  "autoload": {
+    "psr-0": { "Dxp_": "src/" }
+  },
+  "minimum-stability": "dev"
+}
